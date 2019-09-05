@@ -1,3 +1,2 @@
 # Operating-System-CSCE611
-In this coures project, we implemented dynamic memory allocation, and translated the physical address into the virtual address by page table. We also handled a multiple threads condition by both FIFO and Round-Robin algorithms. And at the end, for the final project, Weimplemented a simple file system which supports sequential access to a file. The design of the file system is shown in this picture.
-
+In this course project, we implemented dynamic memory allocation and translated the physical address into the virtual address by a page table. We also handled a multiple threads condition by both FIFO and Round-Robin algorithms. And at the end, for the final project, We implemented a simple file system which supports sequential access to a file. You can find all the details in the report of each machine problem.
